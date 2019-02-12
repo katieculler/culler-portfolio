@@ -9,4 +9,4 @@ I will be using data from the Nation Endowment for Arts (NEA) and the U.S. Arts 
 Link: https://www.arts.gov/artistic-fields/research-analysis/arts-data-profiles/arts-data-profile-16/data-tables 
 
 ### Method and Medium 
-To complete the project, I will create data visualizations using raw graphs and infogram. The final story will be created in shorthand. To fully realize the visualizations they will start as 
+To complete the project data visualizations will be made using raw graphs and infogram. The final story will be created in shorthand. To fully realize the visualizations they will first be wireframed and shown to the intended audience to receive feedback. After feedback, changes will be made to make the story clear and consise. This process will happen a few times to make sure it is clear for the intended audience. 
