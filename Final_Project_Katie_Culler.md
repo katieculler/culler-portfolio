@@ -12,7 +12,9 @@ Link: https://www.arts.gov/artistic-fields/research-analysis/arts-data-profiles/
 To complete the project data visualizations will be made using raw graphs and infogram. The final story will be created in shorthand. To fully realize the visualizations they will first be wireframed and shown to the intended audience to receive feedback. After feedback, changes will be made to make the story clear and consise. This process will happen a few times to make sure it is clear for the intended audience. 
 
 ## Part 2 
-### Storyboard 
+### Storyboard and Sketches 
+![storyboard](https://user-images.githubusercontent.com/46875076/52985309-51777a00-33c1-11e9-8270-55eee9ac6d9a.JPG)
+
 
 
 
