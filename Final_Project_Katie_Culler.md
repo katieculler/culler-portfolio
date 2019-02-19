@@ -22,6 +22,7 @@ My inteneded audience is arts professionals to use this story for arts advocacy.
 
 ### Wireframes 
 Visualization 1 
-![Visualization 1 ]()
+![viz 1](https://user-images.githubusercontent.com/46875076/52985221-dc0ba980-33c0-11e9-8db1-1d12aaa060a2.jpg)
+
 
 ### Moodboard 
