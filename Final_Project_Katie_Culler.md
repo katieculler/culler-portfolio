@@ -16,9 +16,12 @@ To complete the project data visualizations will be made using raw graphs and in
 
 
 
-### User Research, Protocol, and Fndings
+### User Research, Protocol, 
+My inteneded audience is arts professionals to use this story for arts advocacy. For my user research I asked 5 students in the Carnegie Mellon Universtiy, Heniz College, Masters of Arts Management program to look at my graphs, so far I only have 3 responses. I sent them a google form with the 3 data visualizations and the same five quetions after every visualization. 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhBINpDSGqK2bnOy3QFn5Ye1TkHBgFBXIQndB1jbu4MfDdCQ/viewform?embedded=true" width="640" height="1346" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> 
 
 ### Wireframes 
+Visualization 1 
+![Visualization 1 ]()
 
 ### Moodboard 
